@@ -3,8 +3,15 @@ import { Calendar, User, ArrowLeft } from 'lucide-react';
 import { blogPosts } from '@/data/blogPosts';
 import { notFound } from 'next/navigation';
 
+export async function generateStaticParams() {
+  return blogPosts.map((post) => ({
+    id: post.id.toString(),
+  }));
+}
+
 export async function generateMetadata({ params }) {
-  const post = blogPosts.find((p) => p.id === parseInt(params.id));
+  const { id } = await params;
+  const post = blogPosts.find((p) => p.id === parseInt(id));
   if (!post) return { title: 'Post Not Found' };
 
   return {
@@ -13,8 +20,9 @@ export async function generateMetadata({ params }) {
   };
 }
 
-export default function BlogPost({ params }) {
-  const post = blogPosts.find((p) => p.id === parseInt(params.id));
+export default async function BlogPost({ params }) {
+  const { id } = await params;
+  const post = blogPosts.find((p) => p.id === parseInt(id));
 
   if (!post) {
     notFound();
