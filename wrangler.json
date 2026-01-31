@@ -1,0 +1,11 @@
+{
+    "name": "providence-anglican-church",
+    "compatibility_date": "2026-01-31",
+    "assets": {
+        "directory": "out",
+        "binding": "ASSETS"
+    },
+    "observability": {
+        "enabled": true
+    }
+}
