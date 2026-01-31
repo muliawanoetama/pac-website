@@ -1,0 +1,220 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply font-sans text-gray-800 antialiased;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-serif;
+  }
+}
+
+@layer components {
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-lg text-white bg-church-red hover:bg-red-700 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5;
+  }
+
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-6 py-3 border-2 border-church-red text-base font-medium rounded-lg text-church-red bg-white hover:bg-church-red hover:text-white transition-all duration-300;
+  }
+
+  .btn-gold {
+    @apply inline-flex items-center justify-center px-6 py-3 border border-transparent text-base font-medium rounded-lg text-white bg-church-navy hover:bg-blue-900 transition-all duration-300 shadow-lg hover:shadow-xl transform hover:-translate-y-0.5;
+  }
+
+  .section-heading {
+    @apply text-3xl md:text-4xl lg:text-5xl font-serif font-bold text-gradient mb-4;
+  }
+
+  .section-subheading {
+    @apply text-lg md:text-xl text-gray-600 max-w-3xl mx-auto;
+  }
+
+  .card {
+    @apply bg-white rounded-xl shadow-lg overflow-hidden transition-all duration-300 hover:shadow-2xl hover:-translate-y-1;
+  }
+
+  .gradient-overlay {
+    @apply absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/70;
+  }
+
+  .text-gradient {
+    @apply bg-gradient-to-r from-church-red to-church-navy bg-clip-text text-transparent;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .animation-delay-200 {
+    animation-delay: 200ms;
+  }
+
+  .animation-delay-400 {
+    animation-delay: 400ms;
+  }
+
+  /* Geometric patterns */
+  .pattern-checkered-red {
+    background-image:
+      repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(227, 6, 19, 0.1) 10px, rgba(227, 6, 19, 0.1) 20px),
+      repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(227, 6, 19, 0.1) 10px, rgba(227, 6, 19, 0.1) 20px);
+  }
+
+  .pattern-checkered-navy {
+    background-image:
+      repeating-linear-gradient(45deg, transparent, transparent 10px, rgba(0, 32, 91, 0.1) 10px, rgba(0, 32, 91, 0.1) 20px),
+      repeating-linear-gradient(-45deg, transparent, transparent 10px, rgba(0, 32, 91, 0.1) 10px, rgba(0, 32, 91, 0.1) 20px);
+  }
+
+  /* Decorative corner accents */
+  .accent-corner-red {
+    position: relative;
+  }
+
+  .accent-corner-red::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 40px;
+    height: 40px;
+    background: linear-gradient(135deg, transparent 50%, #E30613 50%);
+  }
+
+  .accent-corner-navy {
+    position: relative;
+  }
+
+  .accent-corner-navy::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 40px;
+    height: 40px;
+    background: linear-gradient(315deg, transparent 50%, #00205B 50%);
+  }
+
+  /* Striped accent lines */
+  .line-accent-red {
+    border-left: 4px solid #E30613;
+    padding-left: 16px;
+  }
+
+  .line-accent-navy {
+    border-left: 4px solid #00205B;
+    padding-left: 16px;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #E30613;
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #00205B;
+}
+
+/* Animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.animate-fadeInUp {
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+.animate-fadeIn {
+  animation: fadeIn 1s ease-out forwards;
+}
+
+.animate-slideInLeft {
+  animation: slideInLeft 0.8s ease-out forwards;
+}
+
+.animate-slideInRight {
+  animation: slideInRight 0.8s ease-out forwards;
+}
+
+/* Decorative elements */
+.ornament {
+  @apply relative;
+}
+
+.ornament::before,
+.ornament::after {
+  content: '';
+  @apply absolute w-12 h-px bg-church-gold top-1/2;
+}
+
+.ornament::before {
+  @apply right-full mr-4;
+}
+
+.ornament::after {
+  @apply left-full ml-4;
+}
