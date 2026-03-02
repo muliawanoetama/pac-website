@@ -1,6 +1,69 @@
 export const blogPosts = [
   {
-    id: 1,
+    id: 10,
+    title: "Minta dan Kamu Akan Diberi: Janji Kesetiaan Allah dalam Doa",
+    excerpt: "Renungan kontemplatif berdasarkan Matius 7:7-12 dan Mazmur 138 tentang kepercayaan mendalam bahwa Tuhan sebagai Bapa yang baik akan memberikan yang terbaik bagi anak-anak-Nya.",
+    date: "March 2, 2026",
+    author: "Providence Team",
+    category: "Devotional",
+    content: `
+### Penjelasan Kontemplatif
+
+Dalam **Matius 7:7-12**, Yesus mengajak kita untuk datang kepada-Nya dengan kebutuhan kita, karena Dia sebagai Bapa yang baik akan memberikan yang terbaik bagi anak-anak-Nya.
+
+Ajaran ini bukan tentang permintaan yang sembarangan, melainkan tentang **kepercayaan yang mendalam** bahwa Tuhan memahami apa yang kita butuhkan bahkan sebelum kita mengatakannya. **Mazmur 138** memperkuat pesan ini dengan menyatakan bahwa Tuhan mendengar doa kita dan menjaga janji-Nya dengan setia, bahkan ketika jalan kita penuh lika-liku.
+
+> Saat kita berdoa, kita tidak hanya mengharapkan jawaban, melainkan juga mengalami kedekatan dengan Sang Pencipta yang mengasihi kita tanpa syarat.
+
+Setiap permintaan yang kita sampaikan dengan hati yang tulus menjadi sarana untuk memperdalam hubungan kita dengan Dia, karena Dia selalu siap untuk merespons dengan kasih yang melampaui pemahaman kita.
+
+---
+
+### Pertanyaan Dasar
+
+1. **Apa yang diajarkan Yesus tentang cara kita datang kepada Tuhan dalam doa sesuai Matius 7:7-12?**
+2. **Menurut Mazmur 138, bagaimana sikap Tuhan terhadap doa dan janji-Nya kepada umat-Nya?**
+3. **Apa makna perumpamaan tentang “Bapa yang baik” dalam Matius 7:11 bagi kehidupan berdoa kita?**
+
+---
+
+### Pertanyaan Refleksi
+
+* Apakah ada kebutuhan dalam hidup Anda yang belum Anda sampaikan kepada Tuhan, dan apa yang menghalangi Anda untuk meminta-Nya?
+* Bagaimana pengalaman Anda dalam melihat kesetiaan Tuhan merespons doa Anda, sesuai dengan apa yang dinyatakan dalam Mazmur 138?
+* Bagaimana Anda bisa mengajak orang lain untuk mempercayai janji Tuhan tentang menjawab doa seperti yang diajarkan dalam ayat-ayat ini?
+
+---
+
+### Doa Anglikan
+
+Tuhan Yang Mahakuasa,
+
+Kami datang kepada-Mu dengan hati yang rendah hati, mengingat janji-Mu yang mulia:
+
+> *“Minta, dan kamu akan diberi; cari, dan kamu akan temukan; ketuk, dan pintu akan dibukakan kepadamu.”*
+
+Kami berterima kasih karena Engkau mendengar setiap doa kami, seperti yang dinyatakan dalam Mazmur-Mu: **Engkau menjaga janji-Mu dengan setia, dan mengasihi kami dengan kasih yang tak terhingga.**
+
+Berikanlah kepada kami:
+
+* **Keberanian** untuk meminta apa yang benar dan baik,
+* **Kebijaksanaan** untuk mencari kehendak-Mu,
+* **Kesabaran** ketika menunggu jawaban-Mu.
+
+Bimbinglah kami agar seperti Bapa yang baik, memberikan yang terbaik bagi sesama dan menyebarkan kasih-Mu di dunia ini.
+
+Semua ini kami mohon dalam nama Putera-Mu, Yesus Kristus, Tuhan kita yang hidup dan memerintah bersama Engkau dan Roh Kudus, Allah yang Esa. Sampai selama-lamanya.
+
+**Amin.**
+
+---
+
+Apakah Anda ingin saya membantu membuatkan draf renungan singkat atau poin-poin khotbah berdasarkan teks ini?
+    `
+  },
+  {
+    id: 11,
     title: "Seeing Aslan’s World: A Reflection on Psalm 19",
     excerpt: "Psalm 19 is a majestic hymn that celebrates God’s glory as revealed in both creation and Scripture.",
     date: "November 10, 2025",
@@ -30,7 +93,7 @@ O God, whose glory is revealed in the heavens and whose law is perfect, we thank
     `
   },
   {
-    id: 2,
+    id: 12,
     title: "The Breath of God’s Care: A Reflection on Psalm 144:3-4",
     excerpt: "A poignant reflection on the paradox of God’s immense power and His intimate care for humanity.",
     date: "November 7, 2025",
@@ -58,7 +121,7 @@ O God, whose power is infinite and whose love is boundless, we marvel at your ca
     `
   },
   {
-    id: 3,
+    id: 13,
     title: "A True Minister",
     excerpt: "The inspiring story of Reverend Hans Egede and his mission to Greenland.",
     date: "November 6, 2025",
@@ -88,7 +151,7 @@ Joel R.Beeke & Diana Kleyn
     `
   },
   {
-    id: 4,
+    id: 14,
     title: "A Hindu Becomes a Christian",
     excerpt: "A powerful testimony of a Hindu man finding salvation through reading the Bible.",
     date: "November 5, 2025",
@@ -127,7 +190,7 @@ How God Stopped The Pirates and Other Devotional by Joel R.Beeke & Diana Kleyn.
     `
   },
   {
-    id: 5,
+    id: 15,
     title: "Living Sacrifice and Liturgical Worship in the Anglican Tradition",
     excerpt: "Exploring the call of Romans 12:1-2 and its reflection in Anglican worship.",
     date: "July 22, 2025",
@@ -168,7 +231,7 @@ Allah Yang Mahakuasa, kami bersyukur atas belas kasihan-Mu yang tak terbatas. Ba
     `
   },
   {
-    id: 6,
+    id: 16,
     title: "A New You",
     excerpt: "Exploring the promise of transformation in 2 Corinthians 5:17.",
     date: "December 11, 2023",
@@ -226,7 +289,7 @@ We often get stuck thinking of ourselves the way we’ve always thought of ourse
     `
   },
   {
-    id: 7,
+    id: 17,
     title: "PERJAMUAN PERKAWINAN RAJA- Bagian 1",
     excerpt: "Lihatlah Allah yang mengasihi itu dalam raja yang mempersiapkan perjamuan kawin.",
     date: "December 9, 2023",
@@ -250,7 +313,7 @@ Priest at PAC Jakarta
     `
   },
   {
-    id: 8,
+    id: 18,
     title: "Kemunafikan dan Kecanduan Pujian",
     excerpt: "Membahas bahaya kemunafikan dan kecanduan pujian dalam kehidupan rohani.",
     date: "December 9, 2023",
@@ -283,7 +346,7 @@ Priest in charge at PAC Jakarta
     `
   },
   {
-    id: 9,
+    id: 19,
     title: "GOD HAS COME FOR US",
     excerpt: "Exploring the wonder of God becoming one of us to express His love.",
     date: "December 9, 2023",
@@ -365,7 +428,7 @@ Thank God for Jesus. Thank him that Jesus was humble enough to become a human an
     `
   },
   {
-    id: 10,
+    id: 20,
     title: "GOD IS THE STAR",
     excerpt: "Life is a story, but it’s not about you. God is the star of the story.",
     date: "December 8, 2023",
@@ -409,7 +472,7 @@ Tell God that he is the star of your story. Admit to him your fears about that a
     `
   },
   {
-    id: 11,
+    id: 21,
     title: "Hypocrisy and Praise Addiction",
     excerpt: "Exploring Jesus' teaching on hypocrisy and the dangers of seeking human praise.",
     date: "November 7, 2023",
@@ -437,7 +500,7 @@ Deacon at PAC Jakarta
     `
   },
   {
-    id: 12,
+    id: 22,
     title: "Journey to Emmaus with the Risen Christ",
     excerpt: "Why did the two disciples ask Jesus to stay? Exploring the authority of Scripture.",
     date: "April 20, 2023",
@@ -456,7 +519,7 @@ The big idea of Jesus’ explanation, beginning with Moses and all the prophets,
     `
   },
   {
-    id: 13,
+    id: 23,
     title: "Thomas, The Didymus",
     excerpt: "Exploring the character of Thomas and his role as the 'twin' of our doubting minds.",
     date: "April 19, 2023",
@@ -475,7 +538,7 @@ The third appearance, the pivotal moment, of Thomas was in the second gathering,
     `
   },
   {
-    id: 14,
+    id: 24,
     title: "Zacchaeus: the Chief of Sinners",
     excerpt: "A reflection on the transformation of Zacchaeus and God's love for the lost.",
     date: "October 27, 2022",
@@ -496,7 +559,7 @@ All this happened when Jesus came to stay at his house. Interestingly, Jesus did
     `
   },
   {
-    id: 15,
+    id: 25,
     title: "Love Bade Me Welcome",
     excerpt: "A reflection on the overwhelming love of God, the Father.",
     date: "August 6, 2019",
