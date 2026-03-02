@@ -56,10 +56,6 @@ Bimbinglah kami agar seperti Bapa yang baik, memberikan yang terbaik bagi sesama
 Semua ini kami mohon dalam nama Putera-Mu, Yesus Kristus, Tuhan kita yang hidup dan memerintah bersama Engkau dan Roh Kudus, Allah yang Esa. Sampai selama-lamanya.
 
 **Amin.**
-
----
-
-Apakah Anda ingin saya membantu membuatkan draf renungan singkat atau poin-poin khotbah berdasarkan teks ini?
     `
   },
   {
