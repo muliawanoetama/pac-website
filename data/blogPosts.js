@@ -7,58 +7,229 @@ export const blogPosts = [
     author: "Revd. Hermawan",
     category: "Theological Reflection",
     content: `
-    <h2>1. Kristus Melihat Kita di Dalam Kegelapan Kita</h2>
+    <h3>1. Kristus Melihat Kita di Dalam Kegelapan Kita</h3>
     <p>
-        Saudara-saudari yang terkasih di dalam Kristus, Injil yang baru saja kita dengar menceritakan tentang seorang yang buta sejak lahir; namanya <strong>Celidonius</strong> berdasarkan tradisi gereja. Tetapi janganlah kita berpikir bahwa kisah ini hanya tentang Celidonius di masa lalu. Injil tidak pernah hanya berbicara tentang satu orang. Dalam satu orang itu kita melihat gambaran seluruh umat manusia. Sebab siapakah orang buta sejak lahir itu? Ia adalah manusia. Ia adalah Adam. Ia adalah kita.
+        Saudara-saudari yang terkasih di dalam Kristus, Injil yang baru saja kita
+        dengar menceritakan tentang seorang yang buta sejak lahir; namanya Celidonius
+        berdasarkan tradisi gereja. Tetapi janganlah kita berpikir bahwa kisah ini hanya
+        tentang Celidonius di masa lalu. Injil tidak pernah hanya berbicara tentang satu
+        orang. Dalam satu orang itu kita melihat gambaran seluruh umat manusia. Sebab
+        siapakah orang buta sejak lahir itu? Ia adalah manusia. <strong>Ia adalah Adam. Ia
+        adalah kita.</strong> Semua manusia lahir dengan mata jasmani yang dapat melihat
+        dunia, tetapi <strong>dengan mata hati yang tertutup seperti jendela yang tertutup
+        rapat pada rumah yang gelap.</strong> Mata kita melihat langit, gunung, dan wajah
+        manusia, tetapi hati kita sering tidak melihat Allah yang memberi hidup kepada
+        semuanya.
     </p>
     <p>
-        Semua manusia lahir dengan mata jasmani yang dapat melihat dunia, tetapi dengan mata hati yang tertutup seperti jendela yang tertutup rapat pada rumah yang gelap. Mata kita melihat langit, gunung, dan wajah manusia, tetapi hati kita sering tidak melihat Allah yang memberi hidup kepada semuanya.
+        Karena itu Injil berkata: “Yesus melihat seorang yang buta sejak lahir.”
+        Perhatikan baik-baik: <strong>Yesus melihat dia terlebih dahulu.</strong> Orang itu tidak melihat
+        Yesus. Ia tidak mencari Yesus. Ia bahkan tidak tahu siapa Yesus. Namun Yesus
+        melihat dia. Mengapa? <strong>Karena rahmat selalu mendahului usaha manusia.</strong> Kita
+        sering berpikir bahwa kita menemukan Tuhan seperti seorang penjelajah yang
+        akhirnya menemukan sumber air di padang gurun. Namun Injil berkata sesuatu
+        yang lebih dalam: <strong>Tuhanlah yang lebih dahulu menemukan kita seperti
+        seorang gembala yang mencari dombanya yang tersesat di dalam lembah
+        yang gelap.</strong>
     </p>
     <p>
-        Karena itu Injil berkata: <em>“Yesus melihat seorang yang buta sejak lahir.”</em> Perhatikan baik-baik: Yesus melihat dia terlebih dahulu. Orang itu tidak melihat Yesus. Ia tidak mencari Yesus. Ia bahkan tidak tahu siapa Yesus. Namun Yesus melihat dia. Mengapa? Karena rahmat selalu mendahului usaha manusia. Kita sering berpikir bahwa kita menemukan Tuhan seperti seorang penjelajah yang akhirnya menemukan sumber air di padang gurun. Namun Injil berkata sesuatu yang lebih dalam: Tuhanlah yang lebih dahulu menemukan kita seperti seorang gembala yang mencari dombanya yang tersesat di dalam lembah yang gelap.
+        Para murid melihat orang itu dan bertanya: “Rabi, siapa yang berdosa
+        sehingga ia lahir buta?” Beginilah manusia sering berpikir. Ketika melihat
+        penderitaan, kita seperti hakim yang terlalu cepat memukul palu, segera mencari
+        siapa yang harus disalahkan. Namun Tuhan menjawab: “Bukan dia dan bukan
+        juga orang tuanya, tetapi supaya pekerjaan-pekerjaan Allah dinyatakan di dalam
+        dia.” <strong>Tuhan tidak selalu menjelaskan penderitaan kita, tetapi Ia dapat
+        memakai penderitaan itu seperti seorang seniman yang memakai batu yang
+        retak untuk memahat patung yang indah.</strong>
     </p>
+    <p>
+        Hal ini sangat dekat dengan kehidupan kita bukan? Ada orang yang hidup
+        dalam kegelapan penderitaan. Ada yang hidup dalam kegelapan kehilangan. Ada
+        yang hidup dalam kegelapan kegagalan. Ada pula kegelapan yang lebih
+        tersembunyi: <strong>depresi yang membuat hati seperti kamar tanpa jendela, trauma
+        yang membuat jiwa seperti rumah yang pintunya selalu terkunci,</strong> atau
+        <strong> kesombongan yang membuat kita merasa seperti orang yang berdiri di
+        puncak menara dan mengira ia dapat melihat seluruh dunia.</strong> Banyak orang di
+        zaman kita hidup dengan mata terbuka tetapi hati yang gelap. Namun Injil ini
+        memberi penghiburan besar: <strong>Kristus melihat kita bahkan ketika kita tidak
+        mampu melihat Dia.</strong> Ia tidak menjauh dari manusia yang terluka. Ia tidak takut
+        mendekati hati yang hancur. <strong>Ia datang justru ke tempat yang paling gelap,
+        seperti fajar yang perlahan menembus malam yang panjang.</strong>
+    </p>
+
     <blockquote>
-        “Christ did not pass by the blind man without notice, but seeing him He stopped, showing that God’s grace seeks those who cannot see Him.”
-        <span class="quote-author">— John Chrysostom, Homilies on the Gospel of John 56</span>
+        <p>
+            “Christ did not pass by the blind man without notice, but seeing him He
+            stopped, showing that God’s grace seeks those who cannot see Him.”
+        </p>
+        <p>-Homilies on the Gospel of John 56- John Chrysostom-</p>
     </blockquote>
 
-    <hr>
+    <h3>2. Kristus Memulihkan Ciptaan yang Rusak</h3>
+    <p>
+        Kemudian Tuhan melakukan sesuatu yang aneh. Ia meludah ke tanah,
+        membuat lumpur, lalu mengoleskannya pada mata orang buta itu. Mengapa
+        demikian? Ingatlah kisah penciptaan: <strong>Allah membentuk manusia dari debu
+        tanah. Adam dibentuk oleh Allah dari debu tanah. Nama Adam berasal dari
+        bahasa Ibrani, yang berasal dari kata adamah ("tanah," "bumi," atau
+        "lumpur") dan adam ("berwarna merah" atau "kemerahan"). Nama ini
+        umumnya diartikan sebagai "tanah merah,"</strong>
+    </p>
+    <p>
+        Kini Sang Firman yang menciptakan dunia mengambil tanah kembali di
+        tangan-Nya. Seolah-olah Sang Pencipta berkata: <strong>“Apa yang rusak sejak awal,
+        sekarang Aku bentuk kembali.”</strong> Tanah melambangkan manusia yang
+        rapuh—seperti bejana tanah liat yang mudah retak. Kristus pun memberikan
+        FirmanNya yaitu <strong className="text-red-600">“Pergilah dan basuh dirimu dalam kolam Siloam”</strong> Ketika Firman
+        <strong> bersatu dengan tanah, terjadilah pemulihan.</strong> Bukankah ini gambaran Inkarnasi?
+        <strong> Firman Allah turun ke dalam debu kemanusiaan kita, seperti cahaya yang
+        masuk ke dalam ruangan yang selama ini tertutup atau gelap.</strong> Air pun
+        berperan sangat penuh makna dalam teks ini. Saat Yesus menaruh lumpur di
+        mata orang buta itu, dia masih belum bisa melihat. Namun, saat ia membasuhnya
+        dengan air, ia dapat melihat.
+    </p>
+    <p>
+        Bumi dipenuhi air saat penciptaan dan saat air bah, itulah waktu dosa umat
+        manusia merajalela. Air Bah adalah pemulihan ciptaan dengan air. Ia membentuk
+        kembali bumi dan manusia supaya ciptaannya tidak hancur binasa.
+    </p>
 
-    <h2>2. Kristus Memulihkan Ciptaan yang Rusak</h2>
-    <p>
-        Kemudian Tuhan melakukan sesuatu yang aneh. Ia meludah ke tanah, membuat lumpur, lalu mengoleskannya pada mata orang buta itu. Mengapa demikian? Ingatlah kisah penciptaan: Allah membentuk manusia dari debu tanah. Nama <strong>Adam</strong> berasal dari bahasa Ibrani <em>adamah</em> ("tanah") yang umumnya diartikan sebagai "tanah merah".
-    </p>
-    <p>
-        Kini Sang Firman yang menciptakan dunia mengambil tanah kembali di tangan-Nya. Seolah-olah Sang Pencipta berkata: <strong>“Apa yang rusak sejak awal, sekarang Aku bentuk kembali.”</strong> Tanah melambangkan manusia yang rapuh—seperti bejana tanah liat yang mudah retak. Kristus pun memberikan Firman-Nya yaitu <em>“Pergilah dan basuh dirimu dalam kolam Siloam”</em>. Ketika Firman bersatu dengan tanah, terjadilah pemulihan.
-    </p>
     <blockquote>
-        “The story of Noah is about God rescuing creation from its own corruption and beginning again with a renewed humanity.”
-        <span class="quote-author">— N.T Wright, Scripture and the Authority of God</span>
+        <p>
+            “The story of Noah is about God rescuing creation from its own
+            corruption and beginning again with a renewed humanity.”
+        </p>
+        <p>— Scripture and the Authority of God- N.T Wright.</p>
     </blockquote>
-    <p>
-        Banyak orang merasa hidupnya sudah terlalu rusak: relasi yang hancur, kegagalan yang memalukan, atau masa lalu yang kelam. Namun Injil hari ini berkata kepada kita: Kristus adalah Sang Pencipta. Jika Ia menciptakan dunia dari ketiadaan, maka Ia juga mampu memperbarui hidup yang rusak seperti tukang periuk yang membentuk kembali bejana yang retak di tangannya.
-    </p>
 
-    <hr>
-
-    <h2>3. Kristus Membuka Mata Iman Kita</h2>
-    <p>
-        Yesus kemudian berkata: <em>“Pergilah, basuhlah dirimu di kolam Siloam.”</em> Yohanes menjelaskan arti nama itu: “Siloam artinya Yang Diutus.” Kolam itu melambangkan Kristus sendiri—Dia yang diutus oleh Bapa. Orang itu pergi, membasuh matanya, dan kembali dengan mata yang melihat. Ini mengingatkan kita pada baptisan.
-    </p>
-    <p>
-        Iman itu seperti benih yang terus bertumbuh perlahan. Perhatikan perjalanan iman orang buta ini. Pertama ia berkata: “Seorang yang bernama Yesus.” Kemudian ia berkata: “Ia seorang nabi.” Dan akhirnya ia berkata: <strong>“Tuhan, aku percaya.”</strong> Iman bertumbuh sedikit demi sedikit, seperti mata yang perlahan-lahan menyesuaikan diri ketika seseorang keluar dari ruangan gelap menuju terang matahari.
-    </p>
-    <p>
-        Kita berjumpa dengan Kristus melalui gereja-Nya, sakramen Firman, Ekaristi, dan dengan sesama bahkan dengan orang yang menderita dan miskin sekalipun. Inilah yang menjadi prinsip utama gereja Anglikan yaitu <strong>Lex Orandi Lex Credendi</strong>. Teologi tidak dipakai untuk menyerang orang lain yang berbeda tetapi diarahkan untuk menyembah Allah dalam liturgi dan mengabdi kepada-Nya dalam kehidupan iman Kristen yang nyata.
-    </p>
     <blockquote>
-        “Ya Allahku, izinkanlah aku mengingat dengan ucapan syukur dan mengakui kepada-Mu segala kemurahan-Mu kepadaku. Biarlah tulang-tulangku dibasahi oleh kasih-Mu... Engkau telah mematahkan belengguku; aku akan mempersembahkan kepada-Mu korban syukur.”
-        <span class="quote-author">— St. Agustinus Hippo</span>
+        <p>
+            “The covenant with Noah is not only a covenant with humanity but with
+            the earth and with every living creature. It is the first promise of the
+            redemption of creation.”— God in Creation - Jurgen
+        </p>
     </blockquote>
+
+    <blockquote>
+        <p>
+            <em>
+                “The flood is God’s radical judgment on the corruption of the earth, yet
+                it is also the beginning of a new history of grace. God does not abandon His
+                creation but restores it through Noah.”
+            </em>
+        </p>
+        <p>— Church Dogmatics III/1- Karl Barth</p>
+    </blockquote>
+
+    <p>
+        Banyak orang merasa hidupnya sudah terlalu rusak: relasi yang hancur,
+        dosa terasa seolah sia-sia, kegagalan yang memalukan, atau masa lalu yang
+        seperti bayangan panjang yang selalu mengikuti langkah kita. Namun Injil hari ini
+        berkata kepada kita: <strong>Kristus adalah Sang Pencipta. Jika Ia menciptakan dunia
+        dari ketiadaan, maka Ia juga mampu memperbarui hidup yang rusak seperti
+        tukang periuk yang membentuk kembali bejana yang retak di tangannya.
+        Tidak ada hati yang terlalu hancur bagi rahmat-Nya. Tidak ada hidup yang
+        terlalu gelap bagi terang Kristus.</strong>
+    </p>
+    <p>
+        <strong>
+            Apakah kita pun melihat dengan cara Kristus melihat dunia ini, yang
+            ingin memperbaharuinya? Ataukah kita akan melihat dunia ini dalam narasi
+            kehancuran dan pemusnahan dan bukan pemulihan ciptaan? Tubuh Kristus
+            diminta ikut dalam pembaharuan ciptaan bersama Kristus.
+        </strong>
+    </p>
+
+    <h3>3. Kristus Membuka Mata Iman Kita</h3>
+    <p>
+        Yesus kemudian berkata: “Pergilah, basuhlah dirimu di kolam Siloam.”
+        Yohanes menjelaskan arti nama itu: “Siloam artinya Yang Diutus.” Kolam itu
+        melambangkan Kristus sendiri—<strong>Dia yang diutus oleh Bapa.</strong> Orang itu pergi,
+        membasuh matanya, dan kembali dengan mata yang melihat. Ini mengingatkan
+        kita pada baptisan. <strong>Kita datang kepada Tuhan dengan mata hati yang buta
+        seperti orang yang berjalan dalam kabut tebal, tetapi melalui rahmat-Nya
+        kabut itu perlahan-lahan tersingkap dan kita mulai melihat terang iman.</strong>
+    </p>
+    <p>
+        Iman itu seperti benih yang terus bertumbuh perlahan. Perhatikan perjalanan
+        iman orang buta yang baru saja melek ini. Pertama ia berkata: “Seorang yang
+        bernama Yesus.” Kemudian ia berkata: “Ia seorang nabi.” Dan akhirnya ia berkata:
+        “Tuhan, aku percaya.” <strong>Iman bertumbuh sedikit demi sedikit, seperti mata yang
+        perlahan-lahan menyesuaikan diri ketika seseorang keluar dari ruangan
+        gelap menuju terang matahari.</strong> Banyak orang Kristen juga mengalami perjalanan
+        yang sama. Ada yang mulai mengenal Yesus hanya sebagai guru, kemudian
+        sebagai Juruselamat, dan akhirnya sebagai <strong>Tuhan yang layak disembah.</strong> Benih
+        iman itu bertumbuh bahkan dalam investigasi sini dari orang-orang Farisi yang
+        ingin menekan orang yang baru saja sembuh demi melindungi reputasi agama
+        mereka.
+    </p>
+    <p>
+        Injil juga memperingatkan kita melalui para Farisi. Mereka religius, mereka
+        mengerti Kitab Suci, mereka rajin menjalankan hukum Tuhan, tetapi mereka tetap
+        tidak melihat karya Allah. Mengapa? <strong>Karena kesombongan menutup mata hati
+        seperti tirai tebal yang menutupi jendela rumah.</strong> Bahaya ini juga ada pada
+        zaman kita. <strong>Seseorang bisa aktif di gereja, mengerti teologi, rajin beribadah,
+        namun tetap tidak sungguh-sungguh mengenal Kristus. Karena iman bukan
+        hanya soal pengetahuan; iman adalah perjumpaan dengan Kristus yang
+        hidup.</strong>
+    </p>
+    <p>
+        Orang yang disembuhkan itu juga akhirnya diusir oleh para pemimpin
+        agama. Ia menjadi orang yang tertolak. Namun Injil mencatat sesuatu yang sangat
+        indah: <strong>Yesus mencari dia kembali.</strong> Ketika dunia menolak dia, <strong>Kristus
+        mendekatinya seperti seorang gembala yang mencari domba yang tersesat
+        di lereng gunung.</strong> Ini adalah pengharapan bagi banyak orang hari ini—bagi
+        mereka yang merasa tersisih, bagi mereka yang ditolak keluarga, bagi mereka
+        yang merasa hidupnya gagal. <strong>Kristus tidak meninggalkan orang yang
+        terbuang.</strong> Inilah contoh sikap gembala yang sebelum Yohanes beralih kepada
+        diskursus gembala yang baik (Yoh. 10).
+    </p>
+    <p>
+        Kita berjumpa dengan Kristus melalui gerejaNya, sakramen Firman, Ekaristi,
+        dan dengan sesama bahkan dengan orang yang menderita dan miskin sekalipun.
+        Inilah yang menjadi prinsip utama gereja anglikan yaitu Lex Orandi Lex Credendi.
+        Teologi tidak dipakai untuk menyerang orang lain yang berbeda tetapi diarahkan
+        untuk menyembah Allah dalam liturgi dan mengabdi kepadaNya dalam kehidupan
+        iman Kristen yang nyata dalam kasih dan kebenaran. Mereka yang terusir dan
+        dibuang dijumpai oleh Kristus dalam liturgi agungNya yang kudus di hari Tuhan
+        bersama dengan gerejaNya.
+    </p>
+
+    <p>
+        <em>
+            Ya Allahku, izinkanlah aku mengingat dengan ucapan syukur dan mengakui
+            kepada-Mu segala kemurahan-Mu kepadaku. Biarlah tulang-tulangku dibasahi
+            oleh kasih-Mu dan berkata kepada-Mu: ‘Siapakah seperti Engkau, ya Tuhan?’
+            Engkau telah mematahkan belengguku; aku akan mempersembahkan kepada-Mu
+            korban syukur.
+        </em>
+    </p>
+    <p>
+        <em>
+            Dan bagaimana Engkau telah mematahkannya akan kuceritakan; dan
+            semua orang yang menyembah-Mu, ketika mereka mendengarnya, akan berkata:
+            ‘Terpujilah Tuhan di surga dan di bumi; besar dan ajaib nama-Nya.’
+        </em>
+    </p>
+    <p className="!indent-0">
+        St. Agustinus Hippo
+    </p>
+    <p>
+        Fokus kita mengenal Allah adalah untuk menyembahNya dan mengagumiNya
+        dalam ibadah bersama dan devosi pribadi.
+    </p>
 
     <h3>Penutup</h3>
     <p>
-        Pada akhir kisah ini Tuhan berkata: <em>“Supaya mereka yang tidak melihat dapat melihat.”</em> Mereka yang mengakui kebutaan mereka akan menerima terang. Marilah kita datang kepada Tuhan dengan kerendahan hati dan berkata: <strong>“Tuhan, aku percaya.”</strong> Kiranya Kristus Sang Terang Dunia membuka mata hati kita supaya kita melihat kemuliaan Allah. Amin.
+        Pada akhir kisah ini Tuhan berkata: “Supaya mereka yang tidak melihat
+        dapat melihat, dan supaya mereka yang melihat menjadi buta.” <strong>Mereka yang
+        mengakui kebutaan mereka akan menerima terang, tetapi mereka yang
+        merasa sudah melihat akan tetap tinggal dalam kegelapan.</strong> Karena itu marilah
+        kita datang kepada Tuhan dengan kerendahan hati dan berkata seperti orang
+        yang dahulu buta itu: <strong>“Tuhan, aku percaya.”</strong> Kiranya <strong>Kristus Sang Terang
+        Dunia membuka mata hati kita</strong>, seperti matahari yang membuka pagi yang baru,
+        supaya kita tidak hanya melihat dunia ini tetapi juga melihat kemuliaan Allah. Dan
+        setelah melihat Dia, kita pun sujud menyembah Dia. Amin.
     </p>
     `
   },
