@@ -1,5 +1,52 @@
 export const blogPosts = [
   {
+    id: 9,
+    title: "Liturgi sebagai Sarana Mengenal Allah Secara Implisit dan Estetis",
+    excerpt: "Eksplorasi pemikiran Nicholas Wolterstorff tentang liturgi sebagai 'teologi implisit' dan sarana estetis untuk menghidupi klaim-klaim iman melalui tindakan serta keindahan bahasa.",
+    date: "March 18, 2026",
+    author: "Andhika Agung Pratama",
+    category: "Theological Reflection",
+    content: `
+Apa yang terlintas di pikiran kita saat mendengar kata **"liturgi"**? Sebagian menganggapnya sekadar ritual, kebiasaan, atau kewajiban kaku dalam ibadah. Namun, liturgi sebenarnya jauh lebih dalam dari sekadar formalitas.
+
+---
+
+### Teologi yang Implisit
+Dalam buku *The God We Worship: An Exploration of Liturgical Theology*, **Nicholas Wolterstorff** menjelaskan bahwa liturgi adalah **"teologi yang implisit"**. Untuk memahaminya, kita perlu meninjau kembali arti teologi:
+
+* **Etimologi:** Berasal dari bahasa Yunani *Theos* (Allah) dan *Logos* (pengetahuan).
+* **Definisi:** Upaya manusia untuk mengenal Allah.
+
+Mengapa disebut bersifat **implisit**? Menurut KBBI, implisit berarti "tersirat" atau dinyatakan secara tidak langsung. Wolterstorff berpendapat bahwa melalui tata cara kita menyembah di gereja, kita sebenarnya sedang menyatakan klaim-klaim teologis tentang siapa Allah itu.
+
+### Contoh dalam Praktik Liturgis
+Sebagai gambaran, mari kita lihat standar liturgi Anglikan:
+
+1.  **Doa Umat:** Rangkaian doa selalu ditutup dengan litani: 
+    > “Bapa Maha Pengasih, terimalah doa-doa ini demi Putra-Mu Juruselamat kami, Yesus Kristus.”
+    >
+    > *Di sini, gereja secara implisit menegaskan klaim tentang Allah yang Maha Pengasih dan peran mediasi Yesus Kristus.*
+
+2.  **Gestur Fisik:** * **Saat Pengakuan Dosa:** Umat duduk atau berlutut sebagai bentuk *kontrisi* (penyesalan).
+    * **Setelah Absolusi:** Umat berdiri sebagai simbol estetis bahwa mereka telah dibangkitkan oleh anugerah-Nya. 
+    * **Makna:** Ini adalah klaim nyata bahwa Allah adalah pribadi yang penuh pengampunan bagi mereka yang bertobat.
+
+---
+
+### Keindahan dalam Pengenalan Tuhan
+Lebih jauh lagi, liturgi merupakan sarana pengenalan Tuhan yang **estetis**. Estetis (menurut KBBI) menyangkut apresiasi terhadap keindahan seni dan sastra. Keindahan ini terpancar jelas dalam *Book of Common Prayer* (Buku Doa Umum), khususnya pada **Doa Kerendahan Hati** (*Humble Access Prayer*) sebelum Ekaristi:
+
+> “Tuhan Yang Pengasih, kami tidak layak datang dalam perjamuan ini dengan mengandalkan kebenaran kami sendiri, melainkan hanya karena kemurahan-Mu. Kami bahkan tidak layak memungut remah-remah di bawah meja-Mu...”
+
+Diksi seperti **"memungut remah-remah"** sengaja dipilih bukan hanya untuk keindahan bahasa, tetapi untuk mempertegas kontras antara keberdosaan manusia dan kemuliaan perjamuan kudus tersebut.
+
+---
+
+### Kesimpulan
+Pada akhirnya, liturgi menjadi krusial karena ia bukan sekadar rutinitas. Ia adalah ruang di mana kita berteologi secara implisit melalui tindakan dan keindahan, sekaligus sarana bagi umat untuk menghidupi klaim-klaim tentang Allah secara lebih mendalam.
+    `
+  },
+  {
     id: 10,
     title: "Minta dan Kamu Akan Diberi: Janji Kesetiaan Allah dalam Doa",
     excerpt: "Renungan kontemplatif berdasarkan Matius 7:7-12 dan Mazmur 138 tentang kepercayaan mendalam bahwa Tuhan sebagai Bapa yang baik akan memberikan yang terbaik bagi anak-anak-Nya.",
