@@ -6,6 +6,25 @@ module.exports = {
   ],
   theme: {
     extend: {
+      typography: (theme) => ({
+        church: {
+          css: {
+            '--tw-prose-body': theme('colors.gray[700]'),
+            '--tw-prose-headings': theme('colors.church.navy'),
+            '--tw-prose-lead': theme('colors.gray[600]'),
+            '--tw-prose-links': theme('colors.church.red'),
+            '--tw-prose-bold': theme('colors.gray[900]'),
+            '--tw-prose-counters': theme('colors.church.red'),
+            '--tw-prose-bullets': theme('colors.church.red'),
+            '--tw-prose-hr': theme('colors.gray[200]'),
+            '--tw-prose-quotes': theme('colors.church.navy'),
+            '--tw-prose-quote-borders': theme('colors.church.red'),
+            '--tw-prose-captions': theme('colors.gray[500]'),
+            '--tw-prose-th-borders': theme('colors.gray[300]'),
+            '--tw-prose-td-borders': theme('colors.gray[200]'),
+          },
+        },
+      }),
       colors: {
         primary: {
           50: '#f5f3f0',
@@ -50,5 +69,7 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [
+    require('@tailwindcss/typography'),
+  ],
 };

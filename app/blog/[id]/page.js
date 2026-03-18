@@ -62,18 +62,10 @@ export default async function BlogPost({ params }) {
           </header>
 
           {/* Content */}
-          <div className="prose prose-lg prose-church max-w-none">
-            {post.content.split('\n').map((paragraph, index) => {
-              if (paragraph.trim().startsWith('###')) {
-                return <h3 key={index} className="text-2xl font-serif font-bold text-gray-900 mt-12 mb-6">{paragraph.replace('###', '').trim()}</h3>;
-              }
-              if (paragraph.trim().startsWith('**')) {
-                return <p key={index} className="font-bold text-gray-900 mt-8">{paragraph.replace(/\*\*/g, '').trim()}</p>;
-              }
-              if (paragraph.trim() === '') return null;
-              return <p key={index} className="text-gray-700 leading-relaxed mb-6">{paragraph.trim()}</p>;
-            })}
-          </div>
+          <div 
+            className="prose prose-lg prose-church max-w-none prose-headings:font-serif prose-blockquote:bg-gray-50 prose-blockquote:p-6 prose-blockquote:rounded-r-lg prose-blockquote:not-italic prose-blockquote:border-l-4 prose-blockquote:border-church-red"
+            dangerouslySetInnerHTML={{ __html: post.content }}
+          />
 
           {/* Footer */}
           <footer className="mt-16 pt-10 border-t border-gray-100">

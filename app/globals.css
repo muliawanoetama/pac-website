@@ -218,3 +218,74 @@
 .ornament::after {
   @apply left-full ml-4;
 }
+
+/* Prose Styling for Blog Content */
+.prose {
+  @apply text-gray-700 leading-relaxed;
+}
+
+.prose h2 {
+  @apply text-3xl font-serif font-bold text-church-navy mt-12 mb-6 border-b border-gray-100 pb-2;
+}
+
+.prose h3 {
+  @apply text-2xl font-serif font-bold text-gray-900 mt-10 mb-4;
+}
+
+.prose p {
+  @apply mb-6;
+}
+
+.prose blockquote {
+  @apply pl-6 border-l-4 border-church-red italic text-gray-600 my-8 py-2 bg-gray-50 rounded-r-lg;
+}
+
+.prose blockquote footer {
+  @apply mt-2 text-sm text-gray-500 not-italic;
+}
+
+.prose ul {
+  @apply list-disc pl-6 mb-8 space-y-2;
+}
+
+.prose ol {
+  @apply list-decimal pl-6 mb-8 space-y-2;
+}
+
+.prose strong {
+  @apply font-bold text-gray-900;
+}
+
+.prose hr {
+  @apply my-12 border-gray-200;
+}
+
+.prose-church {
+  /* Specific theme colors if needed */
+}
+
+.prose-church h2 {
+  @apply text-church-navy;
+}
+
+.prose-church blockquote {
+  @apply border-church-red;
+}
+
+/* Custom blog elements */
+.blog-card-highlight {
+  @apply bg-church-cream/30 p-8 rounded-2xl border border-church-gold/20 my-10 shadow-sm;
+}
+
+.blog-section-divider {
+  @apply flex items-center justify-center my-16 opacity-30;
+}
+
+.blog-section-divider::before {
+  content: '✥';
+  @apply text-church-gold text-2xl;
+}
+
+.blog-drop-cap::first-letter {
+  @apply text-5xl font-serif font-bold text-church-red float-left mr-3 mt-1 leading-none;
+}
