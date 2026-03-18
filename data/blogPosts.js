@@ -7,57 +7,59 @@ export const blogPosts = [
     author: "Revd. Hermawan",
     category: "Theological Reflection",
     content: `
-<p>Saudara-saudari yang terkasih di dalam Kristus, Injil yang baru saja kita dengar menceritakan tentang seorang yang buta sejak lahir; namanya <strong>Celidonius</strong> berdasarkan tradisi gereja. Tetapi janganlah kita berpikir bahwa kisah ini hanya tentang Celidonius di masa lalu.</p>
-<p>Injil tidak pernah hanya berbicara tentang satu orang. Dalam satu orang itu kita melihat gambaran seluruh umat manusia. Sebab siapakah orang buta sejak lahir itu? Ia adalah manusia. Ia adalah <strong>Adam</strong>. Ia adalah kita. Semua manusia lahir dengan mata jasmani yang dapat melihat dunia, tetapi dengan mata hati yang tertutup seperti jendela yang tertutup rapat pada rumah yang gelap. Mata kita melihat langit, gunung, dan wajah manusia, tetapi hati kita sering tidak melihat Allah yang memberi hidup kepada semuanya.</p>
+    <h2>1. Kristus Melihat Kita di Dalam Kegelapan Kita</h2>
+    <p>
+        Saudara-saudari yang terkasih di dalam Kristus, Injil yang baru saja kita dengar menceritakan tentang seorang yang buta sejak lahir; namanya <strong>Celidonius</strong> berdasarkan tradisi gereja. Tetapi janganlah kita berpikir bahwa kisah ini hanya tentang Celidonius di masa lalu. Injil tidak pernah hanya berbicara tentang satu orang. Dalam satu orang itu kita melihat gambaran seluruh umat manusia. Sebab siapakah orang buta sejak lahir itu? Ia adalah manusia. Ia adalah Adam. Ia adalah kita.
+    </p>
+    <p>
+        Semua manusia lahir dengan mata jasmani yang dapat melihat dunia, tetapi dengan mata hati yang tertutup seperti jendela yang tertutup rapat pada rumah yang gelap. Mata kita melihat langit, gunung, dan wajah manusia, tetapi hati kita sering tidak melihat Allah yang memberi hidup kepada semuanya.
+    </p>
+    <p>
+        Karena itu Injil berkata: <em>“Yesus melihat seorang yang buta sejak lahir.”</em> Perhatikan baik-baik: Yesus melihat dia terlebih dahulu. Orang itu tidak melihat Yesus. Ia tidak mencari Yesus. Ia bahkan tidak tahu siapa Yesus. Namun Yesus melihat dia. Mengapa? Karena rahmat selalu mendahului usaha manusia. Kita sering berpikir bahwa kita menemukan Tuhan seperti seorang penjelajah yang akhirnya menemukan sumber air di padang gurun. Namun Injil berkata sesuatu yang lebih dalam: Tuhanlah yang lebih dahulu menemukan kita seperti seorang gembala yang mencari dombanya yang tersesat di dalam lembah yang gelap.
+    </p>
+    <blockquote>
+        “Christ did not pass by the blind man without notice, but seeing him He stopped, showing that God’s grace seeks those who cannot see Him.”
+        <span class="quote-author">— John Chrysostom, Homilies on the Gospel of John 56</span>
+    </blockquote>
 
-<hr />
+    <hr>
 
-<h2>1. Kristus Melihat Kita di Dalam Kegelapan Kita</h2>
-<p>Karena itu Injil berkata: <em>“Yesus melihat seorang yang buta sejak lahir.”</em> Perhatikan baik-baik: <strong>Yesus melihat dia terlebih dahulu.</strong> Orang itu tidak melihat Yesus. Ia tidak mencari Yesus. Ia bahkan tidak tahu siapa Yesus. Namun Yesus melihat dia. Mengapa? Karena rahmat selalu mendahului usaha manusia.</p>
-<p>Para murid melihat orang itu dan bertanya: <em>“Rabi, siapa yang berdosa sehingga ia lahir buta?”</em> Beginilah manusia sering berpikir. Namun Tuhan menjawab: <em>“Bukan dia dan bukan juga orang tuanya, tetapi supaya pekerjaan-pekerjaan Allah dinyatakan di dalam dia.”</em> Tuhan tidak selalu menjelaskan penderitaan kita, tetapi Ia dapat memakai penderitaan itu seperti seorang seniman yang memakai batu yang retak untuk memahat patung yang indah. </p>
+    <h2>2. Kristus Memulihkan Ciptaan yang Rusak</h2>
+    <p>
+        Kemudian Tuhan melakukan sesuatu yang aneh. Ia meludah ke tanah, membuat lumpur, lalu mengoleskannya pada mata orang buta itu. Mengapa demikian? Ingatlah kisah penciptaan: Allah membentuk manusia dari debu tanah. Nama <strong>Adam</strong> berasal dari bahasa Ibrani <em>adamah</em> ("tanah") yang umumnya diartikan sebagai "tanah merah".
+    </p>
+    <p>
+        Kini Sang Firman yang menciptakan dunia mengambil tanah kembali di tangan-Nya. Seolah-olah Sang Pencipta berkata: <strong>“Apa yang rusak sejak awal, sekarang Aku bentuk kembali.”</strong> Tanah melambangkan manusia yang rapuh—seperti bejana tanah liat yang mudah retak. Kristus pun memberikan Firman-Nya yaitu <em>“Pergilah dan basuh dirimu dalam kolam Siloam”</em>. Ketika Firman bersatu dengan tanah, terjadilah pemulihan.
+    </p>
+    <blockquote>
+        “The story of Noah is about God rescuing creation from its own corruption and beginning again with a renewed humanity.”
+        <span class="quote-author">— N.T Wright, Scripture and the Authority of God</span>
+    </blockquote>
+    <p>
+        Banyak orang merasa hidupnya sudah terlalu rusak: relasi yang hancur, kegagalan yang memalukan, atau masa lalu yang kelam. Namun Injil hari ini berkata kepada kita: Kristus adalah Sang Pencipta. Jika Ia menciptakan dunia dari ketiadaan, maka Ia juga mampu memperbarui hidup yang rusak seperti tukang periuk yang membentuk kembali bejana yang retak di tangannya.
+    </p>
 
-<blockquote>
-  <p>“Christ did not pass by the blind man without notice, but seeing him He stopped, showing that God’s grace seeks those who cannot see Him.”</p>
-  <footer>— <strong>John Chrysostom</strong>, <em>Homilies on the Gospel of John 56</em></footer>
-</blockquote>
+    <hr>
 
-<h2>2. Kristus Memulihkan Ciptaan yang Rusak</h2>
-<p>Kemudian Tuhan melakukan sesuatu yang aneh. Ia meludah ke tanah, membuat lumpur, lalu mengoleskannya pada mata orang buta itu. Mengapa demikian?</p>
-<ul>
-  <li><strong>Makna Penciptaan:</strong> Ingatlah kisah penciptaan, Adam dibentuk dari debu tanah (<em>adamah</em>). Kini Sang Firman mengambil tanah kembali di tangan-Nya seolah berkata: “Apa yang rusak sejak awal, sekarang Aku bentuk kembali.”</li>
-  <li><strong>Simbolisme Air:</strong> Saat Yesus menaruh lumpur, ia belum melihat. Namun, saat ia membasuhnya dengan air di Siloam, ia dapat melihat. Ini mengingatkan kita pada Air Bah sebagai pemulihan ciptaan.</li>
-</ul>
+    <h2>3. Kristus Membuka Mata Iman Kita</h2>
+    <p>
+        Yesus kemudian berkata: <em>“Pergilah, basuhlah dirimu di kolam Siloam.”</em> Yohanes menjelaskan arti nama itu: “Siloam artinya Yang Diutus.” Kolam itu melambangkan Kristus sendiri—Dia yang diutus oleh Bapa. Orang itu pergi, membasuh matanya, dan kembali dengan mata yang melihat. Ini mengingatkan kita pada baptisan.
+    </p>
+    <p>
+        Iman itu seperti benih yang terus bertumbuh perlahan. Perhatikan perjalanan iman orang buta ini. Pertama ia berkata: “Seorang yang bernama Yesus.” Kemudian ia berkata: “Ia seorang nabi.” Dan akhirnya ia berkata: <strong>“Tuhan, aku percaya.”</strong> Iman bertumbuh sedikit demi sedikit, seperti mata yang perlahan-lahan menyesuaikan diri ketika seseorang keluar dari ruangan gelap menuju terang matahari.
+    </p>
+    <p>
+        Kita berjumpa dengan Kristus melalui gereja-Nya, sakramen Firman, Ekaristi, dan dengan sesama bahkan dengan orang yang menderita dan miskin sekalipun. Inilah yang menjadi prinsip utama gereja Anglikan yaitu <strong>Lex Orandi Lex Credendi</strong>. Teologi tidak dipakai untuk menyerang orang lain yang berbeda tetapi diarahkan untuk menyembah Allah dalam liturgi dan mengabdi kepada-Nya dalam kehidupan iman Kristen yang nyata.
+    </p>
+    <blockquote>
+        “Ya Allahku, izinkanlah aku mengingat dengan ucapan syukur dan mengakui kepada-Mu segala kemurahan-Mu kepadaku. Biarlah tulang-tulangku dibasahi oleh kasih-Mu... Engkau telah mematahkan belengguku; aku akan mempersembahkan kepada-Mu korban syukur.”
+        <span class="quote-author">— St. Agustinus Hippo</span>
+    </blockquote>
 
-<h3>Perspektif Teologis tentang Pemulihan:</h3>
-<ul>
-  <li>"The story of Noah is about God rescuing creation from its own corruption and beginning again with a renewed humanity." — <strong>N.T Wright</strong></li>
-  <li>"The covenant with Noah is not only a covenant with humanity but with the earth... It is the first promise of the redemption of creation." — <strong>Jurgen Moltmann</strong></li>
-  <li>"The flood is God’s radical judgment... yet it is also the beginning of a new history of grace." — <strong>Karl Barth</strong></li>
-</ul>
-
-<p>Banyak orang merasa hidupnya sudah terlalu rusak. Namun Injil hari ini berkata: Kristus adalah Sang Pencipta. Jika Ia menciptakan dunia dari ketiadaan, maka Ia juga mampu memperbarui hidup yang rusak.</p>
-
-<hr />
-
-<h2>3. Kristus Membuka Mata Iman Kita</h2>
-<p>Yesus berkata: <em>“Pergilah, basuhlah dirimu di kolam Siloam.”</em> (Siloam artinya <strong>Yang Diutus</strong>). Ini adalah gambaran <strong>Baptisan</strong>. Iman itu seperti benih yang tumbuh perlahan dalam diri orang buta tersebut:</p>
-<ol>
-  <li>“Seorang yang bernama Yesus.”</li>
-  <li>“Ia seorang nabi.”</li>
-  <li>“Tuhan, aku percaya.”</li>
-</ol>
-
-<p>Injil juga memperingatkan kita melalui kaum Farisi. Seseorang bisa aktif di gereja dan mengerti teologi, namun tetap tidak melihat karya Allah karena kesombongan. Iman bukan hanya soal pengetahuan; iman adalah perjumpaan dengan Kristus yang hidup.</p>
-<p>Prinsip utama gereja Anglikan adalah <strong>Lex Orandi, Lex Credendi</strong> (Hukum Doa adalah Hukum Kepercayaan). Teologi tidak dipakai untuk menyerang orang lain, tetapi diarahkan untuk menyembah Allah dalam liturgi dan mengabdi dalam kasih yang nyata.</p>
-
-<blockquote>
-  <p>"Ya Allahku, izinkanlah aku mengingat dengan ucapan syukur dan mengakui kepada-Mu segala kemurahan-Mu kepadaku... Engkau telah mematahkan belengguku; aku akan mempersembahkan kepada-Mu korban syukur."</p>
-  <footer>— <strong>St. Agustinus Hippo</strong></footer>
-</blockquote>
-
-<h2>Penutup</h2>
-<p>Pada akhir kisah ini Tuhan berkata: <em>“Supaya mereka yang tidak melihat dapat melihat, dan supaya mereka yang melihat menjadi buta.”</em> Mereka yang mengakui kebutaan mereka akan menerima terang. Marilah kita datang dengan kerendahan hati dan berkata: <strong>“Tuhan, aku percaya.”</strong> Kiranya Kristus Sang Terang Dunia membuka mata hati kita supaya kita tidak hanya melihat dunia, tetapi melihat kemuliaan Allah.</p>
-<p><strong>Amin.</strong></p>
+    <h3>Penutup</h3>
+    <p>
+        Pada akhir kisah ini Tuhan berkata: <em>“Supaya mereka yang tidak melihat dapat melihat.”</em> Mereka yang mengakui kebutaan mereka akan menerima terang. Marilah kita datang kepada Tuhan dengan kerendahan hati dan berkata: <strong>“Tuhan, aku percaya.”</strong> Kiranya Kristus Sang Terang Dunia membuka mata hati kita supaya kita melihat kemuliaan Allah. Amin.
+    </p>
     `
   },
   {
@@ -68,46 +70,33 @@ export const blogPosts = [
     author: "Andhika Agung Pratama",
     category: "Theological Reflection",
     content: `
-<p>Apa yang terlintas di pikiran kita saat mendengar kata <strong>"liturgi"</strong>? Sebagian menganggapnya sekadar ritual, kebiasaan, atau kewajiban kaku dalam ibadah. Namun, liturgi sebenarnya jauh lebih dalam dari sekadar formalitas.</p>
+        <h2>Liturgi: Lebih dari Sekadar Ritual</h2>
 
-<h2>Teologi yang Implisit</h2>
-<p>Dalam buku <em>The God We Worship: An Exploration of Liturgical Theology</em>, <strong>Nicholas Wolterstorff</strong> menjelaskan bahwa liturgi adalah <strong>"teologi yang implisit"</strong>. Untuk memahaminya, kita perlu meninjau kembali arti teologi:</p>
+        <p>Apa yang terlintas di pikiran kita saat mendengar kata <strong>"liturgi"</strong>? Sebagian menganggapnya sekedar ritual, kebiasaan, atau kewajiban kaku dalam ibadah. Namun, liturgi sebenarnya jauh lebih dalam dari sekadar formalitas.</p>
 
-<ul>
-  <li><strong>Etimologi:</strong> Berasal dari bahasa Yunani <em>Theos</em> (Allah) dan <em>Logos</em> (pengetahuan).</li>
-  <li><strong>Definisi:</strong> Upaya manusia untuk mengenal Allah.</li>
-</ul>
+        <p>Dalam buku <em>The God We Worship: An Exploration of Liturgical Theology</em>, <strong>Nicholas Wolterstorff</strong> menjelaskan bahwa liturgi adalah <span class="highlight">"teologi yang implisit"</span>. Untuk memahaminya, kita perlu meninjau kembali arti teologi. Secara etimologis, teologi berasal dari bahasa Yunani <em>Theos</em> (Allah) dan <em>Logos</em> (pengetahuan). Jadi, teologi adalah upaya manusia untuk mengenal Allah.</p>
 
-<p>Mengapa disebut bersifat <strong>implisit</strong>? Menurut KBBI, implisit berarti "tersirat" atau dinyatakan secara tidak langsung. Wolterstorff berpendapat bahwa melalui tata cara kita menyembah di gereja, kita sebenarnya sedang menyatakan klaim-klaim teologis tentang siapa Allah itu.</p>
+        <p>Lantas, mengapa liturgi disebut bersifat implisit? Menurut KBBI, implisit berarti "tersirat" atau dinyatakan secara tidak langsung. Wolterstorff berpendapat bahwa melalui tata cara kita menyembah di gereja, kita sebenarnya sedang menyatakan klaim-klaim teologis tentang siapa Allah itu.</p>
 
-<h2>Contoh dalam Praktik Liturgis</h2>
-<p>Sebagai gambaran, mari kita lihat standar liturgi Anglikan:</p>
+        <h3>Contoh dalam Praktik</h3>
+        <p>Ambillah contoh standar liturgi Anglikan. Setelah doa umat, rangkaian doa selalu ditutup dengan litani:</p>
+        
+        <blockquote>
+            “Bapa Maha Pengasih, terimalah doa-doa ini demi Putra-Mu Juruselamat kami, Yesus Kristus.”
+        </blockquote>
 
-<h3>1. Doa Umat</h3>
-<p>Rangkaian doa selalu ditutup dengan litani:</p>
-<blockquote>
-  “Bapa Maha Pengasih, terimalah doa-doa ini demi Putra-Mu Juruselamat kami, Yesus Kristus.”
-</blockquote>
-<p><em>Di sini, gereja secara implisit menegaskan klaim tentang Allah yang Maha Pengasih dan peran mediasi Yesus Kristus.</em></p>
+        <p>Di sini, gereja secara implisit sedang menegaskan klaim tentang Allah yang Maha Pengasih dan peran mediasi Yesus Kristus. Hal serupa tampak dalam gestur fisik. Saat pengakuan dosa, umat duduk atau berlutut sebagai bentuk <em>kontrisi</em> (penyesalan). Namun, setelah imam mengucapkan absolusi, umat berdiri—sebuah simbol estetis bahwa mereka telah dibangkitkan oleh anugerah-Nya.</p>
 
-<h3>2. Gestur Fisik</h3>
-<ul>
-  <li><strong>Saat Pengakuan Dosa:</strong> Umat duduk atau berlutut sebagai bentuk <em>kontrisi</em> (penyesalan).</li>
-  <li><strong>Setelah Absolusi:</strong> Umat berdiri sebagai simbol estetis bahwa mereka telah dibangkitkan oleh anugerah-Nya.</li>
-  <li><strong>Makna:</strong> Ini adalah klaim nyata bahwa Allah adalah pribadi yang penuh pengampunan bagi mereka yang bertobat.</li>
-</ul>
+        <h3>Keindahan dalam Pengenalan Tuhan</h3>
+        <p>Lebih jauh lagi, liturgi merupakan sarana pengenalan Tuhan yang estetis. Keindahan ini terpancar jelas dalam <em>Book of Common Prayer</em> (Buku Doa Umum), khususnya pada <strong>Doa Kerendahan Hati</strong> (<em>Humble Access Prayer</em>) sebelum Ekaristi:</p>
 
-<h2>Keindahan dalam Pengenalan Tuhan</h2>
-<p>Lebih jauh lagi, liturgi merupakan sarana pengenalan Tuhan yang <strong>estetis</strong>. Estetis (menurut KBBI) menyangkut apresiasi terhadap keindahan seni dan sastra. Keindahan ini terpancar jelas dalam <em>Book of Common Prayer</em> (Buku Doa Umum), khususnya pada <strong>Doa Kerendahan Hati</strong> (<em>Humble Access Prayer</em>) sebelum Ekaristi:</p>
+        <blockquote>
+            “Tuhan Yang Pengasih, kami tidak layak datang dalam perjamuan ini dengan mengandalkan kebenaran kami sendiri, melainkan hanya karena kemurahan-Mu. Kami bahkan tidak layak memungut remah-remah di bawah meja-Mu...”
+        </blockquote>
 
-<blockquote>
-  “Tuhan Yang Pengasih, kami tidak layak datang dalam perjamuan ini dengan mengandalkan kebenaran kami sendiri, melainkan hanya karena kemurahan-Mu. Kami bahkan tidak layak memungut remah-remah di bawah meja-Mu...”
-</blockquote>
+        <p>Diksi seperti "memungut remah-remah" sengaja dipilih bukan hanya untuk keindahan bahasa, tetapi untuk mempertegas kontras antara keberdosaan manusia dan kemuliaan perjamuan kudus tersebut.</p>
 
-<p>Diksi seperti <strong>"memungut remah-remah"</strong> sengaja dipilih bukan hanya untuk keindahan bahasa, tetapi untuk mempertegas kontras antara keberdosaan manusia dan kemuliaan perjamuan kudus tersebut.</p>
-
-<h2>Kesimpulan</h2>
-<p>Pada akhirnya, liturgi menjadi krusial karena ia bukan sekadar rutinitas. Ia adalah ruang di mana kita berteologi secara implisit melalui tindakan dan keindahan, sekaligus sarana bagi umat untuk menghidupi klaim-klaim tentang Allah secara lebih mendalam.</p>
+        <p>Pada akhirnya, liturgi menjadi krusial karena ia bukan sekadar rutinitas. Ia adalah ruang di mana kita berteologi secara implisit melalui tindakan dan keindahan, sekaligus sarana bagi umat untuk menghidupi klaim-klaim tentang Allah secara lebih mendalam.</p>
     `
   },
   {
