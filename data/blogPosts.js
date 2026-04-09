@@ -1,5 +1,145 @@
 export const blogPosts = [
   {
+    id: 5,
+    title: "Kematian Bukan Kata Terakhir (Matius 28:1–10)",
+    excerpt: "Sebuah perenungan tentang peristiwa Paskah yang menegaskan bahwa kubur yang kosong adalah protes Allah terhadap keputusasaan. Melalui kebangkitan-Nya, Kristus membuktikan bahwa kegelapan dan maut tidak memiliki kuasa final atas hidup manusia.",
+    date: "April 9, 2026",
+    author: "Revd. Hermawan",
+    category: "Theological Reflection",
+    content: `
+    <p>Saudara-saudari terkasih dalam Kristus, ada sebuah keheningan yang datang setelah kematian—keheningan yang berat dan menyesakkan. Itu adalah keheningan dari akhir, keheningan dari finalitas, keheningan yang berbisik, “Semuanya sudah selesai. Tidak ada lagi.” Itulah keheningan Sabtu Sunyi. Salib telah menyelesaikan tugasnya, tubuh telah dibaringkan di dalam kubur, dan batu telah digulingkan menutupinya. Semuanya tampak berakhir. Tetapi kemudian—pagi pun tiba.</p>
+
+    <p>Matius menceritakan bahwa setelah hari Sabat, menjelang fajar pada hari pertama minggu itu, Maria Magdalena dan Maria yang lain pergi melihat kubur. Mereka datang membawa dukacita, bukan harapan. Mereka datang untuk meratap, bukan untuk menyaksikan mukjizat. Mereka datang dengan anggapan bahwa kematian memiliki kata terakhir. Tetapi Allah sudah lebih dahulu menyatakan firman yang lebih baik. Tiba-tiba, terjadilah gempa bumi. Seorang malaikat Tuhan turun dari surga, menggulingkan batu, dan duduk di atasnya—bukan untuk mengeluarkan Yesus, tetapi untuk menunjukkan kepada dunia bahwa kubur itu sudah kosong. Dan malaikat itu berkata sesuatu yang terus bergema sepanjang sejarah: “Jangan takut… Ia tidak ada di sini; sebab Ia telah bangkit, sama seperti yang telah dikatakan-Nya.” Inilah inti dari Injil: kematian bukan kata terakhir.</p>
+
+    <p>Kubur yang kosong bukan sekadar ketiadaan—itu adalah sebuah pernyataan. Itu adalah protes Allah terhadap segala sesuatu yang tampak final di dunia ini. Itu adalah “Tidak” Allah terhadap kematian, keputusasaan, dan kehancuran. Para perempuan itu mengharapkan kubur yang tertutup, tetapi mereka justru menemukan masa depan yang terbuka. Batu itu bukan hanya digulingkan dari kubur—tetapi digulingkan dari keputusasaan manusia. Kematian berkata, “Semuanya sudah selesai,” tetapi kebangkitan berkata, “Semuanya baru dimulai.”</p>
+
+    <p>Malaikat itu mengingatkan mereka, “seperti yang telah dikatakan-Nya.” Yesus sudah menyatakannya sebelumnya, tetapi dukacita membuat mereka lupa. Dan betapa sering hal itu juga terjadi pada kita. Kita hidup seolah-olah kematian, kegagalan, atau penderitaan memiliki kata terakhir. Kita berdiri di depan “kubur-kubur” kita sendiri—relasi yang rusak, mimpi yang hilang, luka yang dalam—dan kita mengira cerita kita berakhir di sana. Tetapi kebangkitan memanggil kita untuk mengingat kembali: Allah selalu setia pada firman-Nya. Jika Kristus telah bangkit, maka tidak ada apa pun—bahkan kematian—yang dapat membatalkan janji-Nya.</p>
+
+    <p>Kubur itu dimaksudkan untuk mengurung Dia: batu yang tertutup rapat, penjagaan yang ketat, tempat peristirahatan terakhir. Tetapi Kristus tidak dapat dikurung—bukan oleh kubur, bukan oleh kematian, bukan oleh batas-batas dunia ini. Ia hidup. Dan karena Ia hidup, Ia tidak jauh tetapi hadir, tidak terkurung tetapi bergerak, tidak diam tetapi berbicara. Kebangkitan bukan hanya sesuatu yang telah terjadi; itu adalah sesuatu yang sedang terjadi. Kristus hidup—di dalam Gereja-Nya, di dalam Firman-Nya, dalam pemecahan roti, dan dalam hidup yang diubahkan.</p>
+
+    <p>Matius mengatakan bahwa para perempuan itu pergi dari kubur dengan takut dan sukacita yang besar—takut karena mereka mengalami kuasa Allah, dan sukacita karena kematian telah dikalahkan. Dan kemudian sesuatu yang lebih indah terjadi: Yesus menemui mereka. Bukan di dalam kubur, bukan di tempat kematian, tetapi di jalan. Kristus yang bangkit menemui kita bukan dalam akhir kita, tetapi dalam perjalanan kita, dalam kehidupan kita. Dan apa yang Ia katakan? “Salam… Jangan takut.” Pesan yang sama seperti malaikat, tetapi kini dari Tuhan yang hidup itu sendiri.</p>
+
+    <p>Di sinilah kebangkitan menjadi sangat pribadi, karena kita semua memiliki tempat-tempat yang terasa seperti kubur—tempat dukacita, tempat penyesalan, tempat di mana harapan seolah terkubur. Tetapi Paskah menyatakan bahwa itu bukan akhir dari cerita kita. Jika Kristus telah mengalahkan kematian, maka tidak ada kehilangan yang final, tidak ada kegelapan yang mutlak, dan tidak ada kubur yang permanen. Kebangkitan tidak meniadakan penderitaan; tetapi mengubahkan penderitaan itu. Kebangkitan tidak menghapus kematian; tetapi mengalahkan kuasanya.</p>
+
+    <p>Malaikat berkata, “Mari dan lihat… lalu pergilah cepat-cepat dan beritakan.” Inilah ritme dari hidup kebangkitan: datang dan lihat kubur yang kosong, lalu pergi dan beritakan pengharapan yang hidup. Kita bukan umat dari kubur; kita adalah umat dari kebangkitan. Kita tidak hidup seolah-olah kematian memiliki kata terakhir. Kita hidup sebagai orang-orang yang telah mendengar Firman yang lebih besar: Kristus telah bangkit, Ia hidup. Dan karena Ia hidup, maka pengharapan hidup, kasih hidup, dan kita benar-benar hidup.</p>
+
+    <p>Maka apa pun “kubur” yang sedang engkau hadapi hari ini, dengarlah suara dari surga: “Jangan takut… Ia tidak ada di sini. Ia telah bangkit.” Kematian telah berbicara, tetapi itu bukan suara terakhir. Kristuslah yang memiliki kata terakhir.</p>
+
+    <p class="amen">Amin.</p>
+    `
+  },
+  {
+    id: 6,
+    title: "Death Has No Final Word (Matthew 28:1–10)",
+    excerpt: "Sebuah renungan Paskah yang kuat mengenai kemenangan Kristus atas maut, mengeksplorasi bagaimana kubur yang kosong menjadi pernyataan harapan Allah yang menghancurkan keputusasaan manusia dan mengubah setiap akhir menjadi awal yang baru.",
+    date: "April 9, 2026",
+    author: "Revd. Hermawan",
+    category: "Theological Reflection",
+    content: `
+    <p>Beloved brothers and sisters in Christ, there is a silence that comes after death—a heavy, suffocating silence. It is the silence of endings, the silence of finality, the silence that whispers, “This is it. There is no more.” That was the silence of Holy Saturday. The cross had done its work, the body had been laid in the tomb, and the stone had been rolled into place. Everything seemed finished. But then—the morning came.</p>
+
+    <p>Matthew tells us that after the Sabbath, at dawn on the first day of the week, Mary Magdalene and the other Mary went to look at the tomb. They came carrying grief, not expectation. They came to mourn, not to witness a miracle. They came assuming death had the final word. But God had already spoken a better word. Suddenly, the earth trembled. An angel of the Lord descended from heaven, rolled back the stone, and sat on it—not to let Jesus out, but to let the world in, to show that the tomb was already empty. And the angel said something that still echoes through history: <span class="highlight">“Do not be afraid… He is not here; for He has been raised, as He said.”</span> This is the heart of the Gospel: death has no final word.</p>
+
+    <p>The empty tomb is not just an absence—it is a declaration. It is God’s protest against everything that seems final in our world. It is God’s “No” to death, despair, and destruction. The women expected a sealed grave, but instead they encountered an open future. The stone was not just rolled away from the tomb—it was rolled away from human hopelessness. Death says, “It is over,” but the resurrection says, “It has only begun.”</p>
+
+    <p>The angel reminds them, “as He said.” Jesus had already spoken of this, but grief had made them forget. And how often is that true for us? We live as if death, failure, or suffering has the last word. We stand before our own “tombs”—broken relationships, lost dreams, deep wounds—and we assume the story ends there. But the resurrection calls us back to remembrance: God always keeps His word. If Christ has risen, then nothing—not even death—can override His promise.</p>
+
+    <p>The tomb was meant to contain Him: a sealed stone, a guarded grave, a final resting place. But Christ cannot be confined—not by a tomb, not by death, not by the limits of this world. He is alive. And because He is alive, He is not distant but present, not contained but moving, not silent but speaking. The resurrection is not just something that happened; it is something that is happening. Christ is alive—in His Church, in His Word, in the breaking of bread, and in the transformation of lives.</p>
+
+    <p>Matthew tells us the women left the tomb with fear and great joy—fear because they encountered the power of God, and joy because death had been defeated. And then something even more beautiful happens: Jesus meets them. Not in the tomb, not in the place of death, but on the road. The risen Christ meets us not in our endings but in our going, in our living, in our journey. And what does He say? “Greetings… Do not be afraid.” The same message as the angel, but now from the living Lord Himself.</p>
+
+    <p>This is where the resurrection becomes deeply personal, because we all carry places that feel like tombs—places of grief, places of regret, places where hope seems buried. But Easter proclaims that this is not the end of your story. If Christ has conquered death, then no loss is final, no darkness is ultimate, and no grave is permanent. The resurrection does not deny suffering; it transforms it. It does not erase death; it defeats its power.</p>
+
+    <p>The angel says, “Come and see… then go quickly and tell.” This is the rhythm of resurrection life: come and see the empty tomb, then go and tell the living hope. We are not people of the tomb; we are people of the resurrection. We do not live as if death has the final word. We live as those who have heard a greater Word: Christ is risen, He is alive. And because He is alive, hope is alive, love is alive, and we are truly alive.</p>
+
+    <p>So whatever tomb you are standing before today, hear the voice of heaven: “Do not be afraid… He is not here. He has risen.” Death has spoken, but it is not the final voice. Christ has the final word.</p>
+    `
+  },
+  {
+    id: 7,
+    title: "Holy Week Reflections 2026: From Bethany to the Cross (John 12)",
+    excerpt: "A collection of reflections for Holy Monday and Tuesday, exploring the anointing of Jesus as our High Priest and the paradox of the Cross as the throne of divine glory.",
+    date: "April 13, 2026",
+    author: "Revd. Hermawan",
+    category: "Theological Reflection",
+    content: `
+<div>
+    <div>
+        <strong>Holy Monday</strong><br>
+        John 12:1–11
+    </div>
+
+    <div>
+        <p>In Bethany, a woman anoints Jesus with costly perfume. What seems like simple devotion is actually preparation. Like the high priest anointed before entering the Holy of Holies, Christ is being set apart for His sacred work.</p>
+        <p>But He will not enter an earthly sanctuary. He will pass through the true veil—His own flesh—into the heavenly Holy of Holies as our eternal High Priest and mediator between God and man. The fragrance of the perfume points to the greater offering of His own life.</p>
+        <p>On this Holy Monday, we are invited to behold Him.</p>
+    </div>
+
+    <div>
+        <em>Will we, like this woman, pour out what is costly in love for Christ?</em><br>
+        <em>Or will we, like Judas, measure our devotion and hold back?</em>
+    </div>
+</div>
+
+<hr>
+
+<div>
+    <div>
+        <strong>Senin Suci</strong><br>
+        Yohanes 12:1–11
+    </div>
+
+    <div>
+        <p>Di Betania, seorang perempuan mengurapi Yesus dengan minyak yang mahal. Apa yang tampak sebagai tindakan kasih biasa, sebenarnya adalah sebuah persiapan. Seperti imam besar yang diurapi sebelum memasuki Ruang Mahakudus, Kristus sedang dikhususkan untuk karya-Nya yang kudus.</p>
+        <p>Namun Ia tidak akan masuk ke dalam bait duniawi. Ia akan menembus tabir yang sejati—yaitu tubuh-Nya sendiri—dan masuk ke dalam Ruang Mahakudus surgawi sebagai Imam Besar yang kekal dan Pengantara antara Allah dan manusia. Harum minyak itu menunjuk kepada persembahan yang lebih besar, yaitu hidup-Nya sendiri. Pada Senin Suci ini, kita diajak untuk memandang Dia.</p>
+    </div>
+
+    <div>
+        <em>Apakah kita, seperti perempuan itu, mau mencurahkan yang berharga sebagai kasih bagi Kristus?</em><br>
+        <em>Ataukah kita, seperti Yudas, menghitung-hitung dan menahan diri dalam pengabdian kita?</em>
+    </div>
+</div>
+
+<hr>
+
+<div>
+    <div>
+        <strong>Holy Tuesday</strong><br>
+        John 12:20–36
+    </div>
+
+    <div>
+        <p>Some Greeks came with a simple longing: "We wish to see Jesus." Yet Jesus answers by speaking of His glory—not in splendor, but in the cross. "The hour has come for the Son of Man to be glorified." To the world, the cross is shame. But for Christ, it is the throne of His glory. Like a grain of wheat that falls into the earth and dies to bear much fruit, His death becomes the way of life for many.</p>
+        <p>Then a voice comes from the Father—echoing moments in the other Gospels at His baptism and transfiguration. This is not the only time the Father speaks, for the Father always speaks to the Son and through the Son. But here, the voice reaches its climax—divine confirmation that the way of the cross is the way of glory. The light still shines in the midst of darkness.</p>
+    </div>
+
+    <div>
+        <em>Will we behold Christ's glory in His cross?</em><br>
+        <em>Or will we continue to seek glory according to the world's measure?</em>
+    </div>
+</div>
+
+<hr>
+
+<div>
+    <div>
+        <strong>Selasa Suci</strong><br>
+        Yohanes 12:20–36
+    </div>
+
+    <div>
+        <p>Beberapa orang Yunani datang dengan satu kerinduan: "Kami ingin melihat Yesus." Jawaban Yesus mengejutkan—Ia berbicara tentang saat kemuliaan-Nya tiba, bukan melalui kemegahan, tetapi melalui salib. "Sudah tiba saatnya Anak Manusia dimuliakan." Bagi dunia, salib adalah kehinaan. Namun bagi Kristus, inilah takhta kemuliaan-Nya. Seperti biji gandum yang jatuh ke tanah dan mati untuk menghasilkan banyak buah, demikian pula kematian-Nya menjadi jalan kehidupan bagi banyak orang.</p>
+        <p>Lalu terdengarlah suara dari Bapa—sebuah gema yang mengingatkan kita pada peristiwa di Injil lain seperti pembaptisan dan pemuliaan-Nya. Ini bukan pertama kalinya Bapa berbicara, sebab Bapa selalu berbicara kepada dan melalui Sang Anak. Namun di sini, suara itu menjadi puncak—peneguhan ilahi bahwa jalan salib adalah jalan kemuliaan. Terang itu masih bersinar di tengah kegelapan dunia.</p>
+    </div>
+
+    <div>
+        <em>Apakah kita mau melihat kemuliaan Kristus justru di dalam salib-Nya?</em><br>
+        <em>Ataukah kita masih mencari kemuliaan menurut ukuran dunia?</em>
+    </div>
+</div>
+    `
+  },
+  {
     id: 8,
     title: "Kristus Sang Terang yang Membuka Mata Kita (Yohanes 9:1–41)",
     excerpt: "Refleksi mendalam atas penyembuhan orang buta sejak lahir di Yohanes 9, mengeksplorasi bagaimana Kristus sebagai Sang Pencipta memulihkan kemanusiaan yang rusak dan membuka mata iman melalui rahmat-Nya.",
@@ -251,7 +391,7 @@ export const blogPosts = [
 
         <h3>Contoh dalam Praktik</h3>
         <p>Ambillah contoh standar liturgi Anglikan. Setelah doa umat, rangkaian doa selalu ditutup dengan litani:</p>
-        
+
         <blockquote>
             “Bapa Maha Pengasih, terimalah doa-doa ini demi Putra-Mu Juruselamat kami, Yesus Kristus.”
         </blockquote>
